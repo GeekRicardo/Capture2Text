@@ -5,8 +5,8 @@ import os
 import time
 from aip import AipOcr
 from PIL import ImageEnhance
-client = AipOcr('appid', 'Y15dc-----ODI',
-                'keOYE-----zhh')
+client = AipOcr('10684055', 'Y15dcjjkq2dLHB1NmdCN9ODI',
+                'keOYEXKG1RXnLyGLa4wfCr003kKE1zhh')
 import platform
 osName = platform.system()
 if(osName == 'Windows'):
